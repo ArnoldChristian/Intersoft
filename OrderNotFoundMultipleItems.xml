@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="OrderNotFoundMultipleItems">
+  <test name="OrderNotFoundMultipleItems">
+    <classes>
+      <class name="com.ReturnsPortal.OrderNotFound.OrderNotFoundMultipleItems"/>
+    </classes>
+  </test> <!-- OrderNotFoundMultipleItems -->
+</suite> <!-- OrderNotFoundMultipleItems -->

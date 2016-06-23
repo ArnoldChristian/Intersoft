@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="RMGReturns">
+  <test name="Regression">
+    <classes>
+      <class name="com.ReturnsPortal.OrderFoundWithItemData.OrderFoundWithMultipleItemData"/>
+      <class name="com.ReturnsPortal.OrderFoundWithoutItemData.OrderFoundWithOutItemData"/>
+      <class name="com.ReturnsPortal.OrderFoundWithoutItemData.OrderFoundWithoutDataMultiple"/>
+      <class name="com.ReturnsPortal.OrderFoundWithItemData.OrderFoundWithItemData"/>
+      <class name="com.ReturnsPortal.OrderNotFound.OrderNotFound"/>
+      <class name="com.ReturnsPortal.OrderNotFound.OrderNotFoundMultipleItems"/>
+    </classes>
+  </test> <!-- Regression -->
+</suite> <!-- RMGReturns -->

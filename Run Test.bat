@@ -1,0 +1,1 @@
+ant cleaning compiling execute pause
